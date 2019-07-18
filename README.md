@@ -2,7 +2,12 @@
 
 It uses the jupyterlab dark theme for the main application components, but styles the notebook using Base 16 Tomorrow Night. 
 
-## Usage  
+## Installation  
+
+To install the theme and use it right away:  
+`jupyter labextension install @ejolly/jupyterlab_base16_tomorrow_night_custom`
+
+## Modifying  
 
 Edit any files in the `style` directory (but most likely `variables.css`). Then run the following commands to build the package and enable it for use with jupyterlab:  
 1. `npm install` (only need to do once after cloning this repo, not on every change of files)
