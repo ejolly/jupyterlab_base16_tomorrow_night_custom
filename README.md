@@ -5,7 +5,7 @@ It uses the jupyterlab dark theme for the main application components, but style
 ## Installation  
 
 To install the theme and use it right away:  
-`jupyter labextension install @ejolly/jupyterlab_base16_tomorrow_night_custom`
+`jupyter labextension install @ejolly/base16dark`
 
 ## Modifying  
 
